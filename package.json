@@ -1,0 +1,23 @@
+{
+  "name": "nulll",
+  "version": "0.0.0",
+  "description": "A library that do nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "nothing",
+    "vapor.js"
+  ],
+  "author": "Mickael Kerjean",
+  "license": "MIT",
+  "dependencies": {
+    "bloat": "^1.0.3",
+    "broken": "^0.1.13",
+    "left-pad": "^1.3.0",
+    "material-design-icons": "^3.0.1",
+    "spaghetti": "^0.1.1",
+    "wreck": "^14.0.2"
+  }
+}
